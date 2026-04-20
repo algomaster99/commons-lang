@@ -22,3 +22,5 @@ site-content
 # jenv's version file
 .java-version
 /.DS_Store
+
+cache.aot
